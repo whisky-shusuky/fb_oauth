@@ -66,3 +66,6 @@ gem 'omniauth-facebook'
 
 #Device
 gem 'devise'
+
+#Thin
+gem 'thin'
