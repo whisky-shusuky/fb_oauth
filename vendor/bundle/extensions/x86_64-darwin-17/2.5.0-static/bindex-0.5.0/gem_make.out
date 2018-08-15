@@ -1,0 +1,15 @@
+current directory: /Users/usukishuntasuku/Desktop/life_work/fb_oauth/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/usukishuntasuku/.anyenv/envs/rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180815-13383-go0q2h.rb extconf.rb
+creating Makefile
+
+current directory: /Users/usukishuntasuku/Desktop/life_work/fb_oauth/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/usukishuntasuku/Desktop/life_work/fb_oauth/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/usukishuntasuku/Desktop/life_work/fb_oauth/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180815-13383-cbmni9/bindex
